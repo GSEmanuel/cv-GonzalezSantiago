@@ -1,0 +1,51 @@
+body{
+	background-color: #efefef;
+	color: #034d6c;
+}
+
+article h1{
+	font-family: 'Rubik', sans-serif;
+	font-weight: auto;
+	text-align: center;
+	background-color: #333;
+	color: white;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Rufina'
+}
+
+h3{
+	text-align: center;
+	font-family: 'Rufina'
+}
+
+p{
+	text-align: center;
+	font-family: 'Rufina'
+}
+
+div .row{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 10px
+}
+
+.row a{
+	border: solid 1px #034d6c;
+	border-radius: 3px;
+	padding: 5px;
+	margin: 5px;
+}
+
+footer{
+	padding: 30px 0 0;
+	background-color: #333;
+	color: #fff;
+}
+
+footer div p{
+	color: #fff;
+}
